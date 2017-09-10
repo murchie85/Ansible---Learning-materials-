@@ -1,0 +1,6 @@
+root_password: mypassword
+database:
+  host: 192.168.33.30
+  name: appdb
+  username: codeigniter
+  password: cipassword
